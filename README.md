@@ -1,2 +1,2 @@
-# Aircraft_Detection_Classification
-Satellite Imaging Project, IIT Indore
+## Aircraft Detection & Classification
+### Satellite Imaging Project, IIT Indore
